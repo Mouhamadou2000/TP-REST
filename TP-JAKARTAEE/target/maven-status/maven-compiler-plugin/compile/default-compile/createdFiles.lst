@@ -1,0 +1,15 @@
+Servlet\CommmuneSession.class
+Servlet\CommuneServlet.class
+Models\Client.class
+Ws\CalculatorWS.class
+Rest\CalculatorRs.class
+Models\Calculor.class
+Models\Commune.class
+cdi\UserService.class
+Servlet\HelloServlet.class
+Rest\HelloRS.class
+Rest\userRS.class
+ejd\CommuneEJD.class
+Rest\CommuneRS.class
+Servlet\createCommuneServlet.class
+Rest\ApplicationRS.class

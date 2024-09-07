@@ -1,0 +1,17 @@
+package Models;
+
+public class Client {
+	
+	
+	String nom;
+	String prenom;
+	public Client () {
+		
+	}
+	
+public Client (String nom ,String Prenom) {
+	
+		
+	}
+
+}
